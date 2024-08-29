@@ -20,7 +20,8 @@ This is a simple GUI library for C++ designed for console applications on Window
     ```sh
     git clone https://github.com/antialberteinstein/gui-library.git
     ```
-2. Include the `gui.h` and `gui.cpp` files in your project.
+2. Include the `gui.h` and `gui.cpp` files in your project, make sure that `gui.cpp` is compiled with code source.
+3. NOTE: You may be able to change `gui.cpp` and `gui.h` for your purpose, we are welcome about those.
 
 ## Usage
 
@@ -124,3 +125,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Author
 
 Developed by [antialberteinstein](https://github.com/antialberteinstein)
+Thank you <3.
